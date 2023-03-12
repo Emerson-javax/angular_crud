@@ -18,15 +18,15 @@
   },
   "employees": [
     {
-      "firstName": "Emerson",
-      "lastName": "Henrique",
-      "email": "emersonhenriquefelix2002@gmail.com",
-      "dob": "1981-10-05T12:09:39Z",
-      "gender": "Male",
-      "education": "Pos-Graduate",
-      "company": "Recife",
-      "experience": 1,
-      "package": 12,
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "package": "",
       "id": 1
     }
   ]
