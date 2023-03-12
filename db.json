@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Emerson",
+      "lastName": "Henrique",
+      "email": "emersonhenriquefelix2002@gmail.com",
+      "dob": "1981-10-05T12:09:39Z",
+      "gender": "Male",
+      "education": "Pos-Graduate",
+      "company": "Recife",
+      "experience": 1,
+      "package": 12,
+      "id": 1
+    }
+  ]
+}
